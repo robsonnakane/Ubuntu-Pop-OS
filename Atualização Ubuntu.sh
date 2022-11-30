@@ -1,6 +1,6 @@
 #!/bin/bash
 
-###Fedora Silverblue###
+###Ubuntu###
 ###Atualização completa do sistema###
 sudo apt autoremove -y;
 sudo apt update -y;
@@ -8,10 +8,10 @@ sudo apt full-upgrade -y;
 
 
 ##Execução do arquivo de atualização no terminal##
-#/var/home/robsonnakane/Documentos/'Atualização Ubuntu.sh'#
+#/var/home/robertonakane/Documentos/'Atualização Ubuntu.sh'#
 
 #Edição do arquivo no terminal#
-#nano /var/home/robsonnakane/Documentos/'Atualização Ubuntu.sh'#
+#nano /var/home/robertonakane/Documentos/'Atualização Ubuntu.sh'#
 
 
 ##Instalação de programas e Flatpak##
