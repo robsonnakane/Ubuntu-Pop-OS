@@ -1,6 +1,6 @@
 #!/bin/bash
 
-###Fedora Silverblue###
+###Fedora Ubuntu###
 ###Atualização completa do sistema###
 sudo apt autoremove -y;
 sudo apt update -y;
