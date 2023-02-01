@@ -1,7 +1,8 @@
 #!/bin/bash
 
-###Fedora Ubuntu###
+###Ubuntu###
 ###Atualização completa do sistema###
+systemctl stop packagekit;
 sudo apt autoremove -y;
 sudo apt update -y;
 sudo apt full-upgrade -y;
@@ -22,6 +23,5 @@ sudo apt full-upgrade -y;
 
 ##Atualização do Flatpak##
 flatpak update -y;
-
 systemctl reboot
 
