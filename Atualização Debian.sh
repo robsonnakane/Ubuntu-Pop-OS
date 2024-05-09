@@ -28,7 +28,7 @@ sudo apt update -y;
 sudo apt full-upgrade -y;
 
 ##instalação dos programas nativos##
-#sudo apt install neofetch -y; sudo apt install simple-scan -y; sudo apt install btop -y; sudo apt install gnome-boxes -y; sudo apt install kitty -y;
+#sudo apt install screenfetch -y; sudo apt install simple-scan -y; sudo apt install btop -y; sudo apt install gnome-boxes -y; sudo apt install kitty -y;
 
 ##Pesquisar o número da última versão com sudo apt search openjdk##
 #sudo apt install openjdk-xx-jdk -y;
